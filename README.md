@@ -9,5 +9,5 @@ It utilizes machine learning models to make predictions and provides insights to
 2. Input Form for CGPA, IQ, and Profile Score
 3. User-Friendly Interface
 
-Deployment
+**Deployment**
 This application is deployed using Streamlit. You can access it (https://studentsplacement-6aurzmrgacr4gjhos3d7vt.streamlit.app/).
